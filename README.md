@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/olliebowe](https://github.com/olliebowe)
 
-- 📫 How to reach me **cambutchart@protonmail.com**
+- 📫 If you would like to reach out you can at **cambutchart@protonmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olliebowe&label=Profile%20views&color=0e75b6&style=flat" alt="olliebowe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olliebowe" alt="olliebowe" /></a> </p>
