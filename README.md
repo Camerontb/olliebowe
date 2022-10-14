@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/olliebowe](https://github.com/olliebowe)
 
-- 📫 How to reach me **cambutchart@protaonmail.com**
+- 📫 How to reach me **cambutchart@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
