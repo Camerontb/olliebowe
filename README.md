@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Noon report](https://github.com/olliebowe/Noon)
 
-- 🌱 I’m currently learning **Jave Script, React, node.js**
+- 🌱 I’m currently learning **Jave Script, React, node.js & SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/olliebowe](https://github.com/olliebowe)
 
