@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cameron Butchart</h1>
-<h3 align="center">I'm a passionte self taught devloper wirth a strong maritime background seeking new ventures within the tech sapce.</h3>
-- 🔭 I’m currently working on [Noon report](https://github.com/olliebowe/Noon)
+<h3 align="center">I'm a passionnate self taught devloper with a strong maritime background seeking new ventures within the tech sapce.</h3>
+- 🔭 I’m currently working on [Noon report]which is a dynamic vessel inforamtion tracker(https://github.com/olliebowe/Noon)to enable ship owners to gain better understanding of thier fleets operational timings.
 
 - 🌱 I’m currently learning **Jave Script, React, node.js & SQL**
 
